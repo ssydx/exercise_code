@@ -1,0 +1,4 @@
+﻿  goto语句.c
+D:\VS2019FILE\三大语句\三大语句\goto语句.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\VS2019FILE\三大语句\三大语句\goto语句.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  三大语句.vcxproj -> D:\VS2019FILE\三大语句\Debug\三大语句.exe
