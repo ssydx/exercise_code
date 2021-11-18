@@ -1,2 +1,2 @@
 # exercise_code
-This is my first repository
+This is for C
