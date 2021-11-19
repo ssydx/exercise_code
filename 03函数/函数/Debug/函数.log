@@ -1,0 +1,5 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(函数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  递归.c
+D:\VS2019FILE\函数\函数\递归.c(265,25): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\VS2019FILE\函数\函数\递归.c(277): warning C4715: “skip”: 不是所有的控件路径都返回值
+  函数.vcxproj -> D:\VS2019FILE\函数\Debug\03函数.exe
