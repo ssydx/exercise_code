@@ -1,0 +1,7 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(数组.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  函数与数组.c
+D:\VS2019FILE\04数组\数组\函数与数组.c(15,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+D:\VS2019FILE\04数组\数组\函数与数组.c(16,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  数组.c
+  正在生成代码...
+  数组.vcxproj -> D:\VS2019FILE\04数组\Debug\05数组.exe
