@@ -1,0 +1,3 @@
+﻿  错误类型.c
+D:\VS2019FILE\09调试\09调试\错误类型.c(29,19): warning C4013: “time”未定义；假设外部返回 int
+  09调试.vcxproj -> D:\VS2019FILE\09调试\Debug\09调试.exe
